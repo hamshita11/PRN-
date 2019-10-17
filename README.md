@@ -1,2 +1,2 @@
 # PRN-
-Aim: To print prn
+Aim: To print prn of the student using functions
